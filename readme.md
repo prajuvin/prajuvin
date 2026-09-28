@@ -8,14 +8,14 @@ I'm the founder of **YHWH Digital**, a digital growth and AI automation consulta
 
 ## Problems I'm working on
 
-I keep a cited map of what Ontario small businesses struggle with in [ontario-smb-problem-atlas](https://github.com/prajuvin/ontario-smb-problem-atlas), then build small tools against the ones software can actually fix.
+I keep a cited map of what Ontario small businesses struggle with in [ontario-smb-problem-atlas](https://github.com/prajuvin/ontario-smb-problem-atlas), then build small tools against the ones software can actually fix. Every build is simple enough for anyone to use, and tested for accessibility.
 
 | Problem | Evidence | Build | Status |
 | --- | --- | --- | --- |
-| Small vendors miss public tenders in large feeds | Open tender data exists; owner demand still to be validated | `tender-radar` | Planned |
-| Service businesses lose bookings when nobody answers | Chatbots are a top planned AI use (31.8%, Statistics Canada, Q3 2026) | `front-desk-agent` | Planned |
+| Owners of several businesses juggle a portal per company, and their teams use AI with no training | Only 24% of the smallest AI-using Canadian firms trained staff on it (Statistics Canada, Q2 2026) | [`owner-hq`](https://github.com/prajuvin/owner-hq) | [Live](https://owner-hq.vercel.app) |
+| Small vendors miss public tenders in large feeds | 839 open federal tenders on a typical day; owner demand still to be validated | [`tender-radar`](https://github.com/prajuvin/tender-radar) | [Live](https://tender-radar-three-navy.vercel.app) |
+| Service businesses lose bookings when nobody answers | Chatbots are a top planned AI use (31.8%, Statistics Canada, Q3 2026) | [`front-desk-agent`](https://github.com/prajuvin/front-desk-agent) | [Demo](https://front-desk-agent.vercel.app) |
 | Regulation and paperwork burden | 54% of owners (CFIB, Q4 2025) | `compliance-calendar` | Planned |
-| New hires take too long to train | 54% report labour shortages (CFIB) | `sop-to-onboarding` | Planned |
 
 ## Client work
 
